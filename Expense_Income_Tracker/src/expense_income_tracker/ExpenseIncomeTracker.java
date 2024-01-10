@@ -9,7 +9,7 @@ import javax.swing.*;
 import java.awt.*;
 /**
  *
- * @author Shakti prasad khadanga
+ * @author Soumyashree Panda
  */
 public class ExpenseIncomeTracker  extends JFrame {
     
