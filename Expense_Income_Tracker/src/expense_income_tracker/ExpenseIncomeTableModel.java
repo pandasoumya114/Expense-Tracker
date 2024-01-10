@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import javax.swing.table.AbstractTableModel;
 /**
  *
- * @author Shakti prasad khadanga
+ * @author Soumyashree Panda
  */
 public class ExpenseIncomeTableModel extends AbstractTableModel  {
   
