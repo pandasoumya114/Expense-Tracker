@@ -5,7 +5,7 @@
 package expense_income_tracker;
 
 /**^
- * @author Shakti prasad khadanga
+ * @author Soumyashree Panda
  * The ExpenseTracker class allows users to store and track their expenses.
  * Users can record expenses by providing a description, amount, and type.
  * Additionally, users can view and analyze their expenses over time.
