@@ -6,7 +6,7 @@ package expense_income_tracker;
 
 /**
  *
- * @author Shakti prasad khadanga
+ * @author Soumyashree Panda
  */
 public class ExpenseIncomeEntry {
     
